@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohanish.kv\\OneDrive - Acuvate Software Private Limited\\Desktop\\C#\\MathLibSolution\\MathLib\\MathLib.csproj",
+      "projectUniqueName": "C:\\Users\\mohanish.kv\\OneDrive - Acuvate Software Private Limited\\Desktop\\C#\\april23\\MathLibSolution\\MathLib\\MathLib.csproj",
       "projectName": "MathLib",
-      "projectPath": "C:\\Users\\mohanish.kv\\OneDrive - Acuvate Software Private Limited\\Desktop\\C#\\MathLibSolution\\MathLib\\MathLib.csproj",
+      "projectPath": "C:\\Users\\mohanish.kv\\OneDrive - Acuvate Software Private Limited\\Desktop\\C#\\april23\\MathLibSolution\\MathLib\\MathLib.csproj",
       "packagesPath": "C:\\Users\\mohanish.kv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohanish.kv\\OneDrive - Acuvate Software Private Limited\\Desktop\\C#\\MathLibSolution\\MathLib\\obj\\",
+      "outputPath": "C:\\Users\\mohanish.kv\\OneDrive - Acuvate Software Private Limited\\Desktop\\C#\\april23\\MathLibSolution\\MathLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
