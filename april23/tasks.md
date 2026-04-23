@@ -19,3 +19,17 @@ TASK 8:ACEPT STUDENT MARK IN SUBJECT INTO METHOD AND RETURN BOTH TOTAL AND AVERA
 TASK 9:ACCEPT BILL AMOUNT TO A METHOD AND ADD SGST 5% AND CGST 3% , AND ADD IT TO TOTAL AMOUNT IN MAIN METHOD AND DISPLAY.
 ---
 TASK 10:
+Accept employ id , name and salary into method as parameters . You should define the method where user can pass the above three in any order.
+E\,g. 1001.”Ram ” ,25000
+“Krish ”, 25000, 1002
+26000,1003,”john ”
+---
+TASK 11:
+ Accept  employ name and branch of a company. You should display Name followed by branch but user can pass in any order.
+e.g. “Ram ”,”Hyderabad”
+“Pune”,”Krish”
+---
+ 
+Task12: Accept name of the person and marks than you need to display name and total marks
+If name is only given by the user then display name and total marks as not given by the user.
+ 
