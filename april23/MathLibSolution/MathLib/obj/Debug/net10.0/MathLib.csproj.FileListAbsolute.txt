@@ -1,0 +1,12 @@
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\bin\Debug\net10.0\MathLib.deps.json
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\bin\Debug\net10.0\MathLib.dll
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\bin\Debug\net10.0\MathLib.pdb
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.AssemblyInfo.cs
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.sourcelink.json
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.dll
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\refint\MathLib.dll
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\MathLib.pdb
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\MathLibSolution\MathLib\obj\Debug\net10.0\ref\MathLib.dll
