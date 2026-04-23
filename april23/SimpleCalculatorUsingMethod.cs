@@ -22,13 +22,9 @@ class SimpleCalculator
     }
     return num1/num2;
   }
-  public static void Main()
+  public static void DisplayMenu(double num1, double num2)
   {
-    Console.WriteLine("Enter first number:");
-    double num1 = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Enter second number:");
-    double num2 = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Choose the Operation to be performed: \n 1.Addition \n2.Subtraction \n3.Multiplication \n4.Division");
+        Console.WriteLine("Choose the Operation to be performed: \n 1.Addition \n2.Subtraction \n3.Multiplication \n4.Division");
     int choice = Convert.ToInt32(Console.ReadLine());
     double result = 0;
     switch(choice)
@@ -53,5 +49,13 @@ class SimpleCalculator
         Console.WriteLine("Invalid choice.");
         break;
     }
+  }
+  public static void Main()
+  {
+    Console.WriteLine("Enter first number:");
+    double num1 = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Enter second number:");
+    double num2 = Convert.ToDouble(Console.ReadLine());
+    DisplayMenu(num1, num2);
   }
 }
