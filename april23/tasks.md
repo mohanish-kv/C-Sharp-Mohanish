@@ -1,0 +1,1 @@
+1. Define 4 static method 
