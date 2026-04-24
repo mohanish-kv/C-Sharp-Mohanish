@@ -1,0 +1,15 @@
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\bin\Debug\net10.0\EmployStaticNonStatic.exe
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\bin\Debug\net10.0\EmployStaticNonStatic.deps.json
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\bin\Debug\net10.0\EmployStaticNonStatic.runtimeconfig.json
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\bin\Debug\net10.0\EmployStaticNonStatic.dll
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\bin\Debug\net10.0\EmployStaticNonStatic.pdb
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.AssemblyInfoInputs.cache
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.AssemblyInfo.cs
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.csproj.CoreCompileInputs.cache
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.sourcelink.json
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.dll
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\refint\EmployStaticNonStatic.dll
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.pdb
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\EmployStaticNonStatic.genruntimeconfig.cache
+C:\Users\mohanish.kv\OneDrive - Acuvate Software Private Limited\Desktop\C#\april24\EmployStaticNonStatic\obj\Debug\net10.0\ref\EmployStaticNonStatic.dll
